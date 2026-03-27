@@ -30,6 +30,8 @@ The final figure shows:
 
 The emphasis is on **clarity, correct temporal alignment, and honest representation of variability** rather than simple averages.
 
+![alt text](Output.png)
+
 ---
 
 ## Requirements
